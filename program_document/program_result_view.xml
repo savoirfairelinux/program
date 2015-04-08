@@ -10,7 +10,7 @@
 
           <page name="documents" string="Documents">
             <field name="document_ids">
-              <tree create="1">
+              <tree>
                 <field name="name" string="Name"/>
                 <field name="datas_fname" />
                 <field name="create_uid" />
